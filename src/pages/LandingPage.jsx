@@ -44,7 +44,7 @@ const LandingPage = () => {
               creative frontend
             </p>
             <h1 className="text-4xl md:text-6xl font-black leading-tight" style={{ fontFamily: "satoshi-black" }}>
-              Design-forward experiences built with thoughtful code.
+              Designs-forward experiences built with thoughtful code.
             </h1>
             <div className="text-2xl md:text-3xl text-emerald-200 font-semibold">
               <TypeAnimation
